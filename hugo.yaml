@@ -19,11 +19,11 @@ menu:
   main:
   - identifier: home
     name: Home
-    url: /
+    url:  https://tianyichow-tcs.github.io/tylog
     weight: 10
   - identifier: posts
     name: Blog
-    url: /posts/
+    url:  https://tianyichow-tcs.github.io/tylog/posts
     weight: 20
 
 assets:
