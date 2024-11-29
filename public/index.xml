@@ -6,6 +6,14 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- 0.139.2</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 11 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:58292/tylog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first blog post</title>
+      <link>http://localhost:58292/tylog/posts/blogpost/</link>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:58292/tylog/posts/blogpost/</guid>
+      <description>&lt;p&gt;Hi!&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
