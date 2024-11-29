@@ -1,7 +1,4 @@
 baseURL: https://tianyichow-tcs.github.io/tylog/
-canonifyurls: true
-relativeURLs: false
-
 languageCode: en-us
 title: My New Hugo Site
 theme: PaperMod
